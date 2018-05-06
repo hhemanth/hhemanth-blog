@@ -4,26 +4,18 @@ comments: false
 weight: -1
 type: post
 ---
-This is a port of the **HPSTR** theme to [Hugo](https://gohugo.io). All the original features are intact and described below. Credit for the theme goes entirely to [Michael Rose](http://github.com/mmistakes).
+I am Hemanth Haridas, I live in Bangalore (India). I currently work @[Jifflenow Technologies](https://www.jifflenow.com) as Principal Engineer.
 
 ---
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around.
+I started this blog as a way to share things I have learnt and learn so that I can share. I work on Ruby on Rails, so I will be writing mostly on Ruby on Rails. You might be wondering, another Ruby on Rails blog? Why? There are so many out there. 
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+You are right in a way. There is not much I can write thats not written already. But I would like to try, writing from my experience and covering topics I feel are needed if you want to genuinely improve yourself continuously and catapult yourself to the TOP 10 percent, 3 percent or 1 percent. It is the journey of continuous improvement that is more enjoyable than the destination itself.
 
-## HPSTR Features:
+Initially I will be writing on the following.
 
-* Responsive templates for post, page, and post index `layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Sweet animated menu.
-* Background image support.
-* Support for large images to call out your favorite posts.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* [Custom 404 page](/404.html) to get you started.
-* [Syntax highlighting]({{< relref "posts/code-highlighting-post.md" >}}) stylesheets to make your code examples look snazzy.
+* **Enumerables Deep Dive** - I am going to take problems I have typically faced as a developer and presnt the problem and the solution here. These are patterns of problems that you may face in the future. I dont know how many parts there will be of this, It can be 3, 5 , or even 10.
+* **Active Record Querying** - Same as above. I am going to take examples, do a deep dive on how to use Active record effectively. I will also show how to combine Active Record Queries and Enumerables methods to write code which easy to read and maintain and fast to run.
+* **Setting up a CI/CD pipeline** - In some companies you will have a separate devops team which would setup a CI/CD pipeline but it doesn't hurt to understand how to set it up. I will use Jenkins and Capistrano. I may also try Ansible.
+* **Refactoring and writing clean code** -  
 
-<div markdown="0"><a href="{{< relref "theme-setup.md" >}}" class="btn btn-info">Theme Setup</a> <a href="https://github.com/dldx/hpstr-hugo-theme" class="btn btn-success">Download HPSTR</a></div>
 
-[^1]: Example: *domain.com/category-name/post-title*

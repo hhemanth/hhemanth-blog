@@ -3,18 +3,14 @@ title: Collections/Enumerables Deep dive - Part 1
 description: "About Collectios/ Enumerables, deep dive with examples"
 date: 2018-04-20
 lastmod: 2018-04-20
-tags: [sample post, code, highlighting]
-image:
-  feature: /images/abstract-10.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+tags: [enumerables, collections, select, flat_map, detect, arrays]
+
 ---
 ### Introduction
 In this series I am going to do a deep dive into the Ruby Enumerables module. I am going to talk about problem you will face in everyday coding and how you can solve them using Ruby enumerables. I believe Ruby Enumerables module is extremely powerful. Enumerables along with ActiveRecord querying according to me are the 2 most important tools for any Ruby/Rails developer. I am going to do another series for ActiveRecord deep dive.
 
 Fasten  your seat belts and take the dive.
 
-[^1]: <http://en.wikipedia.org/wiki/Syntax_highlighting>
 
 ### Problem 1
 

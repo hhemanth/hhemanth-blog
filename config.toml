@@ -12,7 +12,7 @@ disqusShortname = "hpstrhugo"
 	[params.author]
 		name = "Hemanth Haridas"
 		avatar = "/images/avatar.jpg"
-		bio = "Engineer, Enterpreneur, Author"
+		bio = "Engineer, Enterpreneur"
 		github = "hhemanth"
 	[params.image]
 	  feature = "/images/abstract-1.jpg"
